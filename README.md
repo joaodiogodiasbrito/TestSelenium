@@ -20,8 +20,8 @@ This build can be run from 3 different levels:
 -Suite Case Level
 -All suites Level
 
-This build is a Maven Project compiled on InteliJ, the dependencies are included in the POM.xml,
-and also includes functionalities such as:
+This build is a Maven Project compiled on InteliJ, the dependencies are included in the POM.xml.
+It also includes functionalities such as:
 - Excel Reader
 - TestNG reporting, including TestNG Annotations and Data Providers
 
